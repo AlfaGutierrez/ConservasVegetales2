@@ -127,6 +127,7 @@ h2 {
     color: #0099cc;
     /* Azul fresco */
 }
+
 .subtitulos {
     font-size: 20px;
     margin-bottom: 15px;
@@ -134,9 +135,11 @@ h2 {
     /* Azul fresco */
     padding-top: 5px;
 }
+
 .espacio {
     padding-left: 30px;
 }
+
 .subrayado {
     text-decoration: underline;
 }
@@ -252,10 +255,12 @@ footer a:hover {
     /* Ajustar la altura al 100% de la ventana del navegador */
     text-align: center;
 }
-.imagen-centrada-recetas img{
+
+.imagen-centrada-recetas img {
     max-width: 70%;
     max-height: 70%;
-} 
+}
+
 .imagen-centrada-inicio {
     display: flex;
     justify-content: center;
@@ -265,10 +270,11 @@ footer a:hover {
     /* Ajustar la altura al 100% de la ventana del navegador */
     text-align: center;
 }
-.imagen-centrada-inicio img{
+
+.imagen-centrada-inicio img {
     max-width: 70%;
     max-height: 70%;
-} 
+}
 
 /* Estilos específicos para las páginas individuales (contacto, sustentabilidad, Proceso de Elaboración) */
 /* Añadir estilos adicionales según sea necesario */
